@@ -1,0 +1,6 @@
+In this project in c,
+I impleneted a generic linked-list,
+you can use this linked-list for managing strings or points
+by your input in the beggining.
+Also there a lot of wrapping functions for this linked-list,
+all implemented generically (by pointers to functions).
